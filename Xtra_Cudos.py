@@ -15,7 +15,6 @@ location_descriptions = {
     "Tasty Tower": "A dangerously delicious skyscraper where each floor is a new flavor, the elevators run on whipped cream, and one wrong bite could trigger a fondue flood."
 }
 
-
 directions = {
     "N": (-1, 0),  # North → up
     "S": (1, 0),   # South → down
